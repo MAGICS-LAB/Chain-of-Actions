@@ -4,7 +4,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/chain-of-action-faithful-and-multimodal/question-answering-on-truthfulqa)](https://paperswithcode.com/sota/question-answering-on-truthfulqa?p=chain-of-action-faithful-and-multimodal)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/chain-of-action-faithful-and-multimodal/question-answering-on-webquestions)](https://paperswithcode.com/sota/question-answering-on-webquestions?p=chain-of-action-faithful-and-multimodal)
 
-This is the code of the paper [Chain-of-Action](https://openreview.net/forum?id=1BdPHbuimc). You can use this repo to reproduce the results in the paper.
+This is the code of our ICLR 2025 paper [Chain-of-Action](https://openreview.net/forum?id=1BdPHbuimc). You can use this repo to reproduce the results in the paper.
 
 * You can try to run our project by following the steps below, running in different environments may encounter various problems. We are still working hard to make it robust and bug-free.
 

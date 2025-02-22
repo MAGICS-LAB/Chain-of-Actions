@@ -49,7 +49,9 @@ $ export PYTHONPATH=$PYTHONPATH:$PWD
 
 
 ### Instructions
-You can run any baseline with our code provided, such as 
+You can run any baseline with the code we provide.
+
+An example on Dataset in the setting with **React**:
 
 `python react.py`
 

@@ -7,6 +7,8 @@
 This is the code of our ICLR 2025 paper [Chain-of-Action](https://openreview.net/forum?id=1BdPHbuimc). You can use this repo to reproduce the results in the paper.
 
 * You can try to run our project by following the steps below, running in different environments may encounter various problems. We are still working hard to make it robust and bug-free.
+* You should use your own **OpenAI API** and **Google search API**, which is required in our baseline and paper code.
+
 
 ## Datasets
 Download the datasets from the following:
@@ -49,7 +51,6 @@ $ export PYTHONPATH=$PYTHONPATH:$PWD
 ### Instructions
 You can run any baseline with our code provided, suchas auto_cot.py, few_shot.py, sc.py,....
 
-#### You can use your own openai API and Google search API, which is required in our baseline code.
 
 
 ## Acknowledgment

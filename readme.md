@@ -49,7 +49,9 @@ $ export PYTHONPATH=$PYTHONPATH:$PWD
 
 
 ### Instructions
-You can run any baseline with our code provided, suchas auto_cot.py, few_shot.py, sc.py,....
+You can run any baseline with our code provided, such as 
+
+`python react.py`
 
 
 
